@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Task Manager",
+    "slug": "task-manager-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.taskmanager.app"
+    },
+    "android": {
+      "package": "com.taskmanager.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#6C63FF"
+      }
+    }
+  }
+}
