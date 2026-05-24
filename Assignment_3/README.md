@@ -1,6 +1,6 @@
 # 🐳 Task Manager App
 
-A React Native (Expo) mobile app for managing your daily tasks. Create, view, edit, and delete tasks with priority levels, status tracking, and category organisation — all with a clean, intuitive interface.
+A React Native (Expo) mobile app for managing your daily tasks. Create, view, edit, and delete tasks with priority levels, status tracking, and category organisation all with a clean, intuitive interface.
 
 ---
 
