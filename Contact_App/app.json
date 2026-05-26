@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "Contact_App",
+    "slug": "Contact_App",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false,
+      "package": "com.sonamdori2005.Contact_App"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8ab4f8a4-b6f3-4f4c-ba5c-3a2389f861c2"
+      }
+    },
+    "owner": "sonamdori2005",
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
