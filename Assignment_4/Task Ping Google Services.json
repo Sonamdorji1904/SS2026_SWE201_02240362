@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1002896624557",
+    "project_id": "task-ping-d30aa",
+    "storage_bucket": "task-ping-d30aa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002896624557:android:846f874bb819b725726f24",
+        "android_client_info": {
+          "package_name": "com.somz.taskping"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-VQ9cYZngYtAjqvstr_2ekQqzCzy7g5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
